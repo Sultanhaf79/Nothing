@@ -6,6 +6,7 @@ import base64
 import requests
 from groq import Groq
 from docx import Document
+from Pdf import document
 
 st.set_page_config(page_title="AI জ্ঞানভাণ্ডার", page_icon="📚", layout="wide")
 
